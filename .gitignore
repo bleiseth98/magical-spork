@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode
+client/build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+client/DerivedData/
+
+# Vapor
+backend/.build/
+backend/.swiftpm/
+backend/.vscode/
+backend/.env
+
+# General
+*.log
+.env
+Secrets/
+
